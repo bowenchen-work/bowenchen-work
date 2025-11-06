@@ -57,7 +57,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/bowenchen-work"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
   <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
-  <a href="mailto:bowenchen.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+  <a href="mailto:bowenchen.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48"/></a>
 </p>
 
 ---
