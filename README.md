@@ -46,7 +46,7 @@
 ### Contribution Galaxy
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bowenchen-work&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bowenchen-work&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
