@@ -47,7 +47,9 @@
 ### Contribution Galaxy
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bowenchen-work&theme=tokyo-night&area=true&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=bowenchen-work&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
