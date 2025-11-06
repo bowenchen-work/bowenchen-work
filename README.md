@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=ccd5ae&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Bowen+Chen;I+Build+Software+That+Improves+Live.;Developer+%7C+Creative+%7C+Dreamer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=ccd5ae&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Bowen+Chen;I+Build+Software+That+Improves+Life.;Developer+%7C+Creative+%7C+Dreamer" alt="Typing Animation" />
 </p>
 
 ---
