@@ -1,77 +1,76 @@
-<!-- PROFILE HEADER -->
+# Hi, I'm Bowen
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=ccd5ae&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Bowen+Chen;I+Build+Software+That+Improves+Life.;Developer+%7C+Creative+%7C+Dreamer" alt="Typing Animation" />
-</p>
+I'm a first-year DAW (Web Development) student based in Madrid, with a background in systems administration.
 
----
-
-### About Me
-- I build **software with intention**, focusing on real impact and intuitive experience  
-- Inspired by the intersection of **art, technology, and narrative**  
-- Continuously evolving — **always learning, always creating**
+Right now, I'm focused on building a solid foundation in web development while gradually moving toward AI and machine learning. My goal is to become a full-stack engineer who can build and deploy intelligent systems—not just interfaces, but the logic behind them too.
 
 ---
 
-### Languages & Tools I Use
+## My background
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,git,github,npm&theme=light" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,powershell,aws,vscode,bootstrap&theme=light" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,blender,godot&theme=light" />
-</p>
+Before starting DAW, I worked with systems and infrastructure—Linux, Windows Server, virtualization, and scripting.
+
+That experience made me care about how things actually run, not just how they look. Now I'm adding development skills on top of that.
 
 ---
 
-### GitHub Analytics
+## What I know (so far)
 
-<p align="center">
-  <!-- STATS CARD -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bowenchen-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <!-- LANGUAGES CARD -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowenchen-work&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+* HTML, CSS
+* Git & GitHub
+* Linux basics and scripting (PowerShell)
 
 ---
 
-### Contribution Streak
+## What I'm learning
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=bowenchen-work&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
-### Contribution Galaxy
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bowenchen-work&theme=react-dark&hide_border=true&area=true" />
-</p>
+* Java
+* MySQL
+* JavaScript and TypeScript
+* React and Node.js
+* Python (focused on automation and starting AI/ML)
+* Docker
+* Machine learning fundamentals
 
 ---
 
-### Connect With Me
+## Learning next
 
-<p align="center">
-  <a href="https://linkedin.com/in/bowenchen-work"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
-  <a href="mailto:bowenchen.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48"/></a>
-</p>
+I try to stay focused instead of learning everything at once. These are the next steps I'm working toward:
 
----
-
-### Aesthetic Vibes While Coding
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NkeTQ3bWZlczgxNHd4dmM1YWFudTd0Mmx3NmR3bDhrYWhoaTBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" width="500"/>
-</p>
+* Getting more comfortable with Python for data and small ML projects
+* Building simple machine learning models (scikit-learn)
+* Learning how to expose models through APIs
+* Understanding how to deploy applications with Docker
 
 ---
 
-<p align="center">
-  ⭐️ *"Code is art when you care about the details."* ⭐️
-</p>
+## Certifications
+
+I see certifications as a complement to real skills, not a replacement.
+
+* (Planned) AWS or GCP cloud fundamentals
+* (Future) ML-related certifications once I have stronger practical experience
+
+---
+
+## Where I'm heading
+
+I'm working toward combining:
+
+* Web development
+* Systems / infrastructure
+* AI and machine learning
+
+I want to build applications that are not only functional, but actually run in real environments and solve real problems.
+
+---
+
+## Contact
+
+* LinkedIn: https://linkedin.com/in/bowenchen-work
+* Email: [bowenchen.work@gmail.com](mailto:bowenchen.work@gmail.com)
+
+---
+
+"The best engineers understand the whole stack — from the system to the model."
